@@ -8,7 +8,7 @@ python tensorflow/tensorflow/examples/image_retraining/retrain.py --bottleneck_d
 
 
 
-#Output
+Output
 ```
 {
     "first": "EXOTIC SHORTHAIR",
