@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "name": "abyssinian"
+  },
+  {
+    "id": 1,
+    "name": "american bobtail"
+  },
+  {
+    "id": 2,
+    "name": "american curl"
+  },
+  {
+    "id": 3,
+    "name": "american shorthair"
+  },
+  {
+    "id": 4,
+    "name": "american wirehair"
+  },
+  {
+    "id": 5,
+    "name": "balinese"
+  },
+  {
+    "id": 6,
+    "name": "bengal"
+  },
+  {
+    "id": 7,
+    "name": "birman"
+  },
+  {
+    "id": 8,
+    "name": "bombay"
+  },
+  {
+    "id": 9,
+    "name": "british shorthair"
+  },
+  {
+    "id": 10,
+    "name": "british longhair"
+  },
+  {
+    "id": 11,
+    "name": "burmilla"
+  },
+  {
+    "id": 12,
+    "name": "californian rex"
+  },
+  {
+    "id": 13,
+    "name": "california spangled"
+  },
+  {
+    "id": 14,
+    "name": "ceylon"
+  },
+  {
+    "id": 15,
+    "name": "chartreux"
+  },
+  {
+    "id": 16,
+    "name": "chausie"
+  },
+  {
+    "id": 17,
+    "name": "devon rex"
+  },
+  {
+    "id": 18,
+    "name": "donskoy"
+  },
+  {
+    "id": 19,
+    "name": "egyptian mau"
+  },
+  {
+    "id": 20,
+    "name": "exotic shorthair"
+  },
+  {
+    "id": 21,
+    "name": "himalayen"
+  },
+  {
+    "id": 22,
+    "name": "japanese bobtail"
+  },
+  {
+    "id": 23,
+    "name": "javanese"
+  },
+  {
+    "id": 24,
+    "name": "khao manee"
+  },
+  {
+    "id": 25,
+    "name": "korat"
+  },
+  {
+    "id": 26,
+    "name": "maine coon"
+  },
+  {
+    "id": 27,
+    "name": "manx"
+  },
+  {
+    "id": 28,
+    "name": "munchkin"
+  },
+  {
+    "id": 29,
+    "name": "nebelung"
+  },
+  {
+    "id": 30,
+    "name": "norwegian forest"
+  },
+  {
+    "id": 31,
+    "name": "ocicat"
+  },
+  {
+    "id": 32,
+    "name": "oriental"
+  },
+  {
+    "id": 33,
+    "name": "persian"
+  },
+  {
+    "id": 34,
+    "name": "peterbald"
+  },
+  {
+    "id": 35,
+    "name": "ragamuffin"
+  },
+  {
+    "id": 36,
+    "name": "ragdoll"
+  },
+  {
+    "id": 37,
+    "name": "russian blue"
+  },
+  {
+    "id": 38,
+    "name": "safari"
+  },
+  {
+    "id": 39,
+    "name": "savannah"
+  },
+  {
+    "id": 40,
+    "name": "scottish fold"
+  },
+  {
+    "id": 41,
+    "name": "siamese"
+  },
+  {
+    "id": 42,
+    "name": "snowshoe"
+  },
+  {
+    "id": 43,
+    "name": "sokoke"
+  },
+  {
+    "id": 44,
+    "name": "somali"
+  },
+  {
+    "id": 45,
+    "name": "sphynx"
+  },
+  {
+    "id": 46,
+    "name": "tiffany"
+  },
+  {
+    "id": 47,
+    "name": "toyger"
+  },
+  {
+    "id": 48,
+    "name": "turkish angora"
+  },
+  {
+    "id": 49,
+    "name": "york chocolate"
+  }
+]
