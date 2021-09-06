@@ -6,8 +6,19 @@
 >python tensorflow/tensorflow/examples/image_retraining/retrain.py --bottleneck_dir=nn_files/bottlenecks --how_many_training_steps 500 --model_dir=nn_files/inception --output_graph=nn_files/retrained_graph.pb --output_labels=nn_files/retrained_labels.txt --image_dir nn_files/photos 
 
 
+# Input
+
+API:
+
+- localhost:5000/send-image/path:url
+- http://192.168.100.151:5001/cat/https://miss7.24sata.hr/media/img/e3/de/18de635350704e470d3d.jpeg
+
+- data:image/jpeg;base64
+
+- data:image/png;base64
 
 # Output
+
 ```
 {
     "first": "EXOTIC SHORTHAIR",
