@@ -10,7 +10,7 @@
 
 API:
 
-- localhost:5000/send-image/path:url
+- localhost:5000/cat/path:url
 - http://192.168.100.151:5001/cat/https://miss7.24sata.hr/media/img/e3/de/18de635350704e470d3d.jpeg
 
 - data:image/jpeg;base64
