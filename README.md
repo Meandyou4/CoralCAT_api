@@ -1,4 +1,4 @@
-# CoralCAT_API
+# Cat recognition with Flask RESTful API
 
 1. Download tensorflow: https://codeload.github.com/tensorflow/tensorflow/zip/c565660e008cf666c582668cb0d0937ca86e71fb
 2. Download nn_files: https://drive.google.com/drive/folders/1XX-DtpuwCUL5sMBONaJ_tb7ClLUGCSzO?usp=sharing
